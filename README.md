@@ -3,6 +3,7 @@ Command line is a way of issuing instructions directly to your computer without 
 
 Command line
 Command k 			- 	clears out terminal
+<br>
 Ls				-	Shows whats in that directory
 Cd				- 	change directory
 cd 				- 	root directory
